@@ -27,7 +27,6 @@ I'm a passionate **Full Stack Web Developer** with a focus on **Python** and **M
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavittar-Gill&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 * 🤝 Open to freelance opportunities and collaborations
