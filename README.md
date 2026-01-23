@@ -30,7 +30,7 @@ I'm a passionate **Full Stack Web Developer** with a focus on **Python** and **M
 
 ## 📫 How to Reach Me
 * 🤝 Open to freelance opportunities and collaborations
-* 📧 Email: [connectwithpavittar@gmail.com](mailto:contact@pavittargill.xyz)
+* 📧 Email: [contact@pavittargill.xyz](mailto:contact@pavittargill.xyz)
 
 ---
 
